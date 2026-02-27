@@ -1,44 +1,34 @@
-👋 Olá, eu sou Matheus Gonçalves
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-🎓 Estudante de Sistemas de Informação
-💻 Focado em desenvolvimento e banco de dados
-📊 Interesse em tecnologia, negócios e gestão
-🚀 Sempre buscando evoluir técnica e profissionalmente
+<p align="left"> 
+  Me chamo Matheus da Silva Gonçalves <strong>Utilizo JS, MySQL, Git, Figma</strong>.<br>
+  Estou cursando Sistema da Infromação em Inteligência Artificial na faculdade SPtech.
+</p>
 
-🧠 Sobre mim
+<p align="left">
+  🦄 Linguagens: JavaScript, HTML.
+</p>
 
-Sou estudante da área de tecnologia com interesse especial em:
+<p align="left">
+  💼 Ferramentas: VScode, MySQL, Figma, Trello.
+</p>
 
-Desenvolvimento de software
+<p align="left">
+  💌 matheus.sgoncalves@sptech.school: ⤵️
+</p>
 
-Banco de Dados (MySQL)
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
 
-Lógica de programação
 
-Estruturação e organização de sistemas
 
-Tecnologia aplicada a negócios
-
-Tenho perfil analítico, gosto de entender como as coisas funcionam na prática e busco sempre melhorar minha capacidade técnica e estratégica.
-
-🛠️ Tecnologias e Ferramentas
-
-💻 JavaScript
-
-🗄️ MySQL
-
-🧩 Lógica de Programação
-
-🛠️ Git & GitHub
-
-📊 Conceitos de Administração e Gestão
-
-📈 Objetivo
-
-Construir uma carreira sólida na área de tecnologia, unindo visão técnica com visão estratégica de negócios, buscando crescimento contínuo e alto desempenho profissional.
-
-📫 Contato
-
-📧 matheus.sgoncalves@sptech.school
-
-🔗 LinkedIn: (coloque seu link aqui)
