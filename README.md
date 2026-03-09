@@ -14,6 +14,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++)
 
 **DevOps**
 
