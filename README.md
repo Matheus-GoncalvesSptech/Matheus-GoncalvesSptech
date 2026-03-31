@@ -1,36 +1,85 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+# 👋 Fala aí, eu sou o Matheus Gonçalves
 
-## Sobre mim
+🎯 Em construção constante. Focado em evoluir todos os dias.
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Sistema da Informação em Inteligência Artificial na SPtech.
-- 🌱 Aprendendo mais sobre Programação e área de negócios.
+---
 
-## Minhas Skills
+## 🚀 Sobre mim
 
-**Aplicações e dados**
+- 🎓 Estudante de Sistemas de Informação (com foco futuro em Inteligência Artificial)
+- 💻 Desenvolvendo habilidades em programação e desenvolvimento web
+- 🧠 Evoluindo em lógica de programação e resolução de problemas
+- 📊 Interesse em negócios, gestão e tecnologia
+- 📚 Estudando fundamentos de banco de dados e gestão de projetos
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++)
+---
 
-**DevOps**
+## ⚡ Mentalidade
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+Não tô aqui só pra "aprender código".
 
-**Ferramentas de desenvolvimento**
+Tô aqui pra:
+- Resolver problemas reais
+- Criar projetos úteis
+- Evoluir rápido
+- Me destacar no mercado
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+Sem romantizar dificuldade. Sem desculpa.
 
-<br/>
+---
 
-## Onde me encontrar
+## 🛠️ Tecnologias e conhecimentos
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusaprendiz?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://www.linkedin.com/in/matheusaprendiz?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Gmail Badge](https://img.shields.io/badge/-matheus.sgoncalves@sptech.school-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:matheus.sgoncalves@sptech.school)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Matheus-GoncalvesSptech)
+- HTML5
+- CSS3 (Flexbox, Layout)
+- JavaScript (DOM, lógica, eventos)
+- Git & GitHub
+- Banco de Dados (conceitos iniciais, modelagem, SQL básico)
+- Fundamentos de Gestão de Projetos (baseado no PMBOK)
+
+---
+
+## 📚 Atualmente estudando
+
+- Manipulação de DOM
+- Estruturas de dados básicas
+- Banco de dados (modelagem e consultas SQL)
+- Boas práticas de código
+- Fundamentos do PMBOK (processos, organização e planejamento de projetos)
+
+---
+
+## 📌 Projetos
+
+Aqui você vai encontrar projetos que mostram minha evolução real:
+
+- 🧩 Exercícios práticos de lógica
+- 🎨 Interfaces com HTML + CSS
+- ⚙️ Aplicações com JavaScript
+- 🗄️ Projetos simples envolvendo banco de dados *(em desenvolvimento)*
+
+*(Em constante atualização)*
+
+---
+
+## 📈 Objetivo
+
+Me tornar um profissional de tecnologia que:
+- Entende o problema antes de codar
+- Estrutura soluções bem organizadas
+- Tem base sólida em lógica, dados e arquitetura
+- Aplica conceitos de gestão em projetos reais
+- Evolui constantemente sem depender de ninguém
+
+---
+
+## 🤝 Contato
+
+- 💼 LinkedIn: *www.linkedin.com/in/matheusaprendiz*
+- 📧 Email: *theu.silvagon@gmail.com*
+
+---
+
+## 🔥 Status atual
+
+> Construindo base forte agora pra não ser mediano depois.
