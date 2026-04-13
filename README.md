@@ -69,7 +69,6 @@ Me tornar um profissional de tecnologia que:
 - Estrutura soluções bem organizadas
 - Tem base sólida em lógica, dados e arquitetura
 - Aplica conceitos de gestão em projetos reais
-- Evolui constantemente sem depender de ninguém
 
 ---
 
