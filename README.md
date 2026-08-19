@@ -24,8 +24,6 @@ Tô aqui pra:
 - Evoluir rápido
 - Me destacar no mercado
 
-Sem romantizar dificuldade. Sem desculpa.
-
 ---
 
 ## 🛠️ Tecnologias e conhecimentos
@@ -33,19 +31,22 @@ Sem romantizar dificuldade. Sem desculpa.
 - HTML5
 - CSS3 (Flexbox, Layout)
 - JavaScript (DOM, lógica, eventos)
+- Python
+- Java
 - Git & GitHub
 - Banco de Dados (conceitos iniciais, modelagem, SQL básico)
 - Fundamentos de Gestão de Projetos (baseado no PMBOK)
+
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Manipulação de DOM
-- Estruturas de dados básicas
-- Banco de dados (modelagem e consultas SQL)
+- Interface em nuvem AWS
+- Estruturas de dados com APIs
+- Python para manipulação de dados
 - Boas práticas de código
-- Fundamentos do PMBOK (processos, organização e planejamento de projetos)
+- Estruturação de projetos em JAVA
 
 ---
 
@@ -55,10 +56,7 @@ Aqui você vai encontrar projetos que mostram minha evolução real:
 
 - 🧩 Exercícios práticos de lógica
 - 🎨 Interfaces com HTML + CSS
-- ⚙️ Aplicações com JavaScript
-- 🗄️ Projetos simples envolvendo banco de dados *(em desenvolvimento)*
-
-*(Em constante atualização)*
+- ⚙️ Aplicações com JavaScript, Python, APIs e JAVA
 
 ---
 
@@ -78,7 +76,3 @@ Me tornar um profissional de tecnologia que:
 - 📧 Email: *theu.silvagon@gmail.com*
 
 ---
-
-## 🔥 Status atual
-
-> Construindo base forte agora pra não ser mediano depois.
